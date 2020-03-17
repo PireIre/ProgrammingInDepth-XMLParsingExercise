@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b4bd449-7726-4a42-aec0-29bf90f0927e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZECAcLPopoAFSRVsKAGgEuZRJk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/Exercise1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/Exercise1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DomParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DomParser" />
+      <module name="Exercise1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Exercise1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopulateDTOExamplesWithParsedXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PopulateDTOExamplesWithParsedXML" />
+      <module name="Exercise1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PopulateDTOExamplesWithParsedXML" />
+        <item itemvalue="Application.DomParser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b4bd449-7726-4a42-aec0-29bf90f0927e" name="Default Changelist" comment="" />
+      <created>1584394723705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584394723705</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="87" width="811" height="669" key="#Project_Structure" timestamp="1584394869674">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="318" y="87" width="811" height="669" key="#Project_Structure/0.23.1440.798@0.23.1440.798" timestamp="1584394869674" />
+    <state x="835" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1584448719712">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="835" y="114" key="#com.intellij.ide.util.MemberChooser/0.23.1440.801@0.23.1440.801" timestamp="1584440537872" />
+    <state x="835" y="114" key="#com.intellij.ide.util.MemberChooser/0.23.1440.804@0.23.1440.804" timestamp="1584448719712" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584448247665">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584448247665" />
+    <state width="1398" height="320" key="GridCell.Tab.0.bottom" timestamp="1584453732197">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="174" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584448170660" />
+    <state width="1398" height="320" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584453732197" />
+    <state width="1398" height="174" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1584452697345" />
+    <state width="1398" height="320" key="GridCell.Tab.0.center" timestamp="1584453732196">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="174" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584448170658" />
+    <state width="1398" height="320" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584453732196" />
+    <state width="1398" height="174" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1584452697345" />
+    <state width="1398" height="320" key="GridCell.Tab.0.left" timestamp="1584453732195">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="174" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584448170658" />
+    <state width="1398" height="320" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584453732195" />
+    <state width="1398" height="174" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1584452697344" />
+    <state width="1398" height="320" key="GridCell.Tab.0.right" timestamp="1584453732197">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="174" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584448170659" />
+    <state width="1398" height="320" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584453732197" />
+    <state width="1398" height="174" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1584452697345" />
+    <state x="385" y="191" key="run.anything.popup" timestamp="1584395471061">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="385" y="191" key="run.anything.popup/0.23.1440.798@0.23.1440.798" timestamp="1584395471061" />
+    <state x="688" y="148" width="670" height="676" key="search.everywhere.popup" timestamp="1584451204306">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="688" y="148" width="670" height="676" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1584451204306" />
+  </component>
+</project>
