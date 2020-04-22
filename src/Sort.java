@@ -2,10 +2,7 @@ import org.xml.sax.SAXException;
 
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class Sort  {
@@ -19,7 +16,11 @@ public class Sort  {
 
     public void ShowAllInfoInRandomOrder() throws IOException, SAXException, ParserConfigurationException {
         List<Bar> products = PopulateDTOExamplesWithParsedXML.parseEmployeesXML();
-        System.out.println(products);
+        Iterator it = products.iterator();
+
+        while (it.hasNext()){
+            System.out.println(it.next());
+        }
     }
 
     public void sortBasedOnFat() throws IOException, SAXException, ParserConfigurationException {
